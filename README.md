@@ -123,21 +123,36 @@
 1. Relación de uno a muchos
 ***Codigo models.py y admin.py***
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/HK7phzb/AAimagen6.jpg" alt="AAimagen6" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>fast resize</a><br />
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/xLj5Tf6/AAimagen7.jpg" alt="AAimagen7" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>fast resize</a><br />
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/HK7phzb/AAimagen6.jpg" alt="AAimagen6" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/xLj5Tf6/AAimagen7.jpg" alt="AAimagen7" border="0"></a>
 
 ***Relacionando las tablas uno a muchos***
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/XXFFzys/AAimagen1.jpg" alt="AAimagen1" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>fast resize</a><br />
-<a href="https://ibb.co/XCyn9jv"><img src="https://i.ibb.co/YLD56Pq/AAimagen2.jpg" alt="AAimagen2" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>fast resize</a><br />
-<a href="https://ibb.co/km18THT"><img src="https://i.ibb.co/LN5tyky/AAimagen3.jpg" alt="AAimagen3" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>fast resize</a><br />
-<a href="https://ibb.co/9YnPzCb"><img src="https://i.ibb.co/Qm90z1P/AAimagen4.jpg" alt="AAimagen4" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>fast resize</a><br />
-<a href="https://ibb.co/WGSKsGM"><img src="https://i.ibb.co/jb74HbQ/AAimagen5.jpg" alt="AAimagen5" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>fast resize</a><br />
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/XXFFzys/AAimagen1.jpg" alt="AAimagen1" border="0"></a>
+<a href="https://ibb.co/XCyn9jv"><img src="https://i.ibb.co/YLD56Pq/AAimagen2.jpg" alt="AAimagen2" border="0"></a>
+<a href="https://ibb.co/km18THT"><img src="https://i.ibb.co/LN5tyky/AAimagen3.jpg" alt="AAimagen3" border="0"></a>
+<a href="https://ibb.co/9YnPzCb"><img src="https://i.ibb.co/Qm90z1P/AAimagen4.jpg" alt="AAimagen4" border="0"></a>
+<a href="https://ibb.co/WGSKsGM"><img src="https://i.ibb.co/jb74HbQ/AAimagen5.jpg" alt="AAimagen5" border="0"></a>
 
 ***Commit de uno a muchos***
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/CwgnCZ5/AAimagen8.jpg" alt="AAimagen8" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>fast resize</a><br />
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/CwgnCZ5/AAimagen8.jpg" alt="AAimagen8" border="0"></a><br />
 
 2. Relación muchos a muchos
+***codigo models.py y admin.py***
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/y49vThB/AAAimagen4.jpg" alt="AAAimagen4" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/7K2rbx3/AAAimagen5.jpg" alt="AAAimagen5" border="0"></a>
+
+***Relacionando las tablas muchos a muchos***
+<a href="https://ibb.co/w0PHwFs"><img src="https://i.ibb.co/znBc7TJ/AAAimagen1.jpg" alt="AAAimagen1" border="0"></a>
+<a href="https://ibb.co/kmVrjvL"><img src="https://i.ibb.co/FHkf2CQ/AAAimagen2.jpg" alt="AAAimagen2" border="0"></a>
+<a href="https://ibb.co/r62dCTK"><img src="https://i.ibb.co/xjqFpPK/AAAimagen3.jpg" alt="AAAimagen3" border="0"></a>
+<a href="https://ibb.co/yFGTczy"><img src="https://i.ibb.co/zVjcT3R/AAAimagen6.jpg" alt="AAAimagen6" border="0"></a>
+
+***commit de muchos a muchos***
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/Mp8swyM/AAAimagen7.jpg" alt="AAAimagen7" border="0"></a>
+
 3. Impresión de pdfs
 4. Envio de emails
 
