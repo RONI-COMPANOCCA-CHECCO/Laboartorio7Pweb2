@@ -157,9 +157,8 @@
 
 ## 3. Impresión de pdfs
 
-***codigo models.py y admin.py***
+***codigo models.py, urls.py, views.py, y utils.py***
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/T8N08xw/AA3.jpg" alt="AA3" border="0"></a>
 <a href="https://ibb.co/d4XRhjQ"><img src="https://i.ibb.co/YBJxrPt/AA4.jpg" alt="AA4" border="0"></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/4Z70DXF/AA5.jpg" alt="AA5" border="0"></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/HhY3jm7/AA6.jpg" alt="AA6" border="0"></a>
@@ -172,13 +171,22 @@
 
 ***commit de impresion de pdfs***
 
-4. Envio de emails
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/T8N08xw/AA3.jpg" alt="AA3" border="0"></a>
 
-***codigo models.py y admin.py***
+## 4. Envio de emails
+
+***codigo views.py***
+
+<a href="https://ibb.co/pZCvDDk"><img src="https://i.ibb.co/92R9XXd/AB2.jpg" alt="AB2" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/QCjsq9B/AB3.jpg" alt="AB3" border="0"></a>
 
 ***enviando correos***
 
+<a href="https://ibb.co/9TXW025"><img src="https://i.ibb.co/Wy9fXFJ/AB1.jpg" alt="AB1" border="0"></a>
+
 ***commit de enviando correos***
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/9VGzRk1/AB4.jpg" alt="AB4" border="0"></a>
 
 - Crear su video Flipgrid:
 
