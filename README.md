@@ -30,7 +30,7 @@
 </theader>
 <tbody>
 <tr><td>ASIGNATURA:</td><td colspan="5">Programación Web 2</td></tr>
-<tr><td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">Relaciones de uno a muchos, muchos a muchos y impresion de pdf y emails</td></tr>
+<tr><td>TÍTULO DE LA PRÁCTICA:</td><td colspan="5">Relaciones de uno a muchos, muchos a muchos y impresion de pdf y emails en django</td></tr>
 <tr>
 <td>NÚMERO DE PRÁCTICA:</td><td>07</td><td>AÑO LECTIVO:</td><td>2023 A</td><td>NRO. SEMESTRE:</td><td>III</td>
 </tr>
@@ -66,7 +66,7 @@
 </<tr>
 <tr><td colspan="6">LINK REPOSITORIO:
 <ul>
-<li>https://github.com/RONI-COMPANOCCA-CHECCO/Laboratorio6Pweb2</li>
+<li>https://github.com/RONI-COMPANOCCA-CHECCO/Laboartorio7Pweb2</li>
 </ul>
 </td>
 </<tr>
@@ -121,6 +121,22 @@
 - Reproducir las actividades de los videos donde trabajamos:
 
 1. Relación de uno a muchos
+***Codigo models.py y admin.py***
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/HK7phzb/AAimagen6.jpg" alt="AAimagen6" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>fast resize</a><br />
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/xLj5Tf6/AAimagen7.jpg" alt="AAimagen7" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>fast resize</a><br />
+
+***Relacionando las tablas uno a muchos***
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/XXFFzys/AAimagen1.jpg" alt="AAimagen1" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>fast resize</a><br />
+<a href="https://ibb.co/XCyn9jv"><img src="https://i.ibb.co/YLD56Pq/AAimagen2.jpg" alt="AAimagen2" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>fast resize</a><br />
+<a href="https://ibb.co/km18THT"><img src="https://i.ibb.co/LN5tyky/AAimagen3.jpg" alt="AAimagen3" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>fast resize</a><br />
+<a href="https://ibb.co/9YnPzCb"><img src="https://i.ibb.co/Qm90z1P/AAimagen4.jpg" alt="AAimagen4" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>fast resize</a><br />
+<a href="https://ibb.co/WGSKsGM"><img src="https://i.ibb.co/jb74HbQ/AAimagen5.jpg" alt="AAimagen5" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>fast resize</a><br />
+
+***Commit de uno a muchos***
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/CwgnCZ5/AAimagen8.jpg" alt="AAimagen8" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>fast resize</a><br />
+
 2. Relación muchos a muchos
 3. Impresión de pdfs
 4. Envio de emails
