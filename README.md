@@ -120,7 +120,8 @@
 
 - Reproducir las actividades de los videos donde trabajamos:
 
-1. Relación de uno a muchos
+## 1. Relación de uno a muchos
+
 ***Codigo models.py y admin.py***
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/HK7phzb/AAimagen6.jpg" alt="AAimagen6" border="0"></a>
@@ -137,7 +138,8 @@
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/CwgnCZ5/AAimagen8.jpg" alt="AAimagen8" border="0"></a><br />
 
-2. Relación muchos a muchos
+## 2. Relación muchos a muchos
+
 ***codigo models.py y admin.py***
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/y49vThB/AAAimagen4.jpg" alt="AAAimagen4" border="0"></a>
@@ -153,8 +155,30 @@
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/Mp8swyM/AAAimagen7.jpg" alt="AAAimagen7" border="0"></a>
 
-3. Impresión de pdfs
+## 3. Impresión de pdfs
+
+***codigo models.py y admin.py***
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/T8N08xw/AA3.jpg" alt="AA3" border="0"></a>
+<a href="https://ibb.co/d4XRhjQ"><img src="https://i.ibb.co/YBJxrPt/AA4.jpg" alt="AA4" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/4Z70DXF/AA5.jpg" alt="AA5" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/HhY3jm7/AA6.jpg" alt="AA6" border="0"></a>
+<a href="https://ibb.co/kcnHRcg"><img src="https://i.ibb.co/dK9WdK0/AA7.jpg" alt="AA7" border="0"></a>
+
+***Impresion de pdfs***
+
+<a href="https://ibb.co/XtrFs88"><img src="https://i.ibb.co/vk6LPYY/AA2.jpg" alt="AA2" border="0"></a>
+<a href="https://ibb.co/ZWRLsyq"><img src="https://i.ibb.co/5BXMDqb/AA1.jpg" alt="AA1" border="0"></a>
+
+***commit de impresion de pdfs***
+
 4. Envio de emails
+
+***codigo models.py y admin.py***
+
+***enviando correos***
+
+***commit de enviando correos***
 
 - Crear su video Flipgrid:
 
